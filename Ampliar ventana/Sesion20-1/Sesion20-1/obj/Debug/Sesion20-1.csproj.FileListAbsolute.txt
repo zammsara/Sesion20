@@ -1,0 +1,10 @@
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\bin\Debug\Sesion20-1.exe.config
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\bin\Debug\Sesion20-1.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\bin\Debug\Sesion20-1.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\obj\Debug\Sesion20-1.csproj.AssemblyReference.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\obj\Debug\Sesion20_1.Form1.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\obj\Debug\Sesion20_1.Properties.Resources.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\obj\Debug\Sesion20-1.csproj.GenerateResource.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\obj\Debug\Sesion20-1.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\obj\Debug\Sesion20-1.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Sesion20\Ampliar ventana\Sesion20-1\Sesion20-1\obj\Debug\Sesion20-1.pdb

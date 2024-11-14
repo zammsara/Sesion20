@@ -1,0 +1,10 @@
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\bin\Debug\Sesion20.exe.config
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\bin\Debug\Sesion20.exe
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\bin\Debug\Sesion20.pdb
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\obj\Debug\Sesion20.csproj.AssemblyReference.cache
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\obj\Debug\Sesion20.Form1.resources
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\obj\Debug\Sesion20.Properties.Resources.resources
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\obj\Debug\Sesion20.csproj.GenerateResource.cache
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\obj\Debug\Sesion20.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\obj\Debug\Sesion20.exe
+C:\Users\Sara Zambrana\source\repos\Sesion20\Sesion20\obj\Debug\Sesion20.pdb
